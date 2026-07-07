@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "d3562c37151258b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "df650d5b63d60da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8aab54a38a76416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库DB C4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库DB C4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "500e9098a0381688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd00f6152b7423e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库 DB C1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库 DB C1"
+            }
+          },
+          {
+            "id": "f07bf0e200642b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库DB C2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库DB C2"
+            }
+          },
+          {
+            "id": "dad3665ae2926c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库DB C3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库DB C3"
+            }
+          },
+          {
+            "id": "1348d5a31770f7eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库DB C4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库DB C4"
+            }
+          },
+          {
+            "id": "0f6af41fee107b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库 DB C1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库 DB C1"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc500b991d9a8426",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f0fa59778e3f3855",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "674403f888db1c90",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1dc587412fc1b1c5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e25f05627cde097e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "1f03624665dcf11d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f6a82dda1543863a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ad0d6f69c5e3ae3e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2026-06-13.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "8dba830eac67f4a9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "数据库DB C6.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "f3346a1459abb68f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c080a64457b6f002",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "数据库DB C3.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "脚注"
+        }
+      },
+      {
+        "id": "023fc32759527e8e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0f6af41fee107b0a",
+  "lastOpenFiles": [
+    "数据库DB C4.md",
+    "数据库 DB C1.md",
+    "数据库期末复习考点.md",
+    "数据库DB C6.md",
+    "未命名.md",
+    "计算机网络/计算机网络概述.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled.base",
+    "未命名 1.base",
+    "Test Note 1.md",
+    "未命名.base",
+    "未命名.canvas",
+    "2026-05-09.md",
+    "数据库DB C3.md",
+    "数据库DB C2.md",
+    "数据库",
+    "计算机网络",
+    "未命名",
+    "2026-06-27.md",
+    "2026-06-13.md"
+  ]
+}
