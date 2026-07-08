@@ -21,6 +21,9 @@ WHERE dept_name = ‘Comp. Sci.’;
 | 笛卡尔积 | $\times$  | FROM A, B | 所有组合        |
 | 连接   | $\bowtie$ | JOIN      | 按条件拼表       |
 | 重命名  | $\rho$    | AS        | 别名          |
+
+^fa4c13
+
 ### 关系代数写题套路
 1. 要从哪张表查？确定关系
 2. 有什么条件？用$\sigma$
