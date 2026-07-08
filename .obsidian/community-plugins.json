@@ -1,5 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
   "heatmap-calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot",
+  "code-styler",
+  "templater-obsidian",
+  "obsidian-icon-folder",
+  "terminal"
 ]
